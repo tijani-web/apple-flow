@@ -41,7 +41,7 @@ _Coming soon_
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/apple-flow.git
+git clone https://github.com/tijani-web/apple-flow.git
 cd apple-flow
 npm install
 npm start
