@@ -7,7 +7,9 @@ import About from './components/About.jsx';
 const router = createBrowserRouter([
   { path: '/', element: <App /> },
   { path: '/about', element: <About /> },
-]);
+],
+  { basename: '/apple-flow' }
+);
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
