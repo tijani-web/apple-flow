@@ -1,12 +1,47 @@
-# React + Vite
+# 🍏 Apple Flow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smooth, minimal web experience inspired by motion, mood, and modern design. Built with React, this project blends subtle animation, video-driven atmosphere, and responsive UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎥 Background video with smooth overlay text
+- 🎨 Soft, ambient design matching Apple-like aesthetic
+- 📱 Fully responsive — sidebar turns into a mobile-friendly bottom nav
+- ✨ Entrance animations for polished first impressions
+- 🔗 GitHub link in sidebar and footer
+- ⚛️ Built with React + CSS (no frameworks)
 
-## Expanding the ESLint configuration
+## 📂 Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+apple-flow/
+├── public/
+│ └── assets/ # Video backgrounds, icons, etc.
+├── src/
+│ ├── components/ # Sidebar, About, Home...
+│ ├── App.jsx
+│ ├── index.js
+│ └── styles/ # Main CSS files
+
+
+
+## 🔧 Tech Stack
+
+- React
+- Raw CSS
+- React Icons
+
+## 📸 Screenshots
+
+_Coming soon_
+
+## 📎 Live Demo
+
+[🔗 View Site](https://your-deployment-link.com) *(add your deployed link here)*
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/apple-flow.git
+cd apple-flow
+npm install
+npm start
